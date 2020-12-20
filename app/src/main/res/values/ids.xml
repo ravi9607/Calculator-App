@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvInput" type="id" />
+    <item name="llOne" type="id" />
+    <item name="btnEight" type="id" />
+    <item name="btnNine" type="id" />
+    <item name="btnDivide" type="id" />
+    <item name="llTwo" type="id" />
+</resources>
